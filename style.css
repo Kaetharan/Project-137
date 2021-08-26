@@ -1,0 +1,30 @@
+body{
+    background-size: cover;
+}
+.heading{
+width: 100%;
+font-size: 25px;
+margin: 0px;
+}
+canvas{
+    border: 2px solid blue;
+    box-shadow: 5px 5px 5px blue;
+    border-radius: 10px;
+}
+.status{
+    font-size: 15px
+}
+.Start_Button{
+    font-size: 15px;
+    background-color: cornflowerblue;
+}
+#number_of_items{
+    font-size: 15px;
+    background-color: cornflowerblue;
+}
+.footer{
+    width: 100%;
+    position: fixed;
+    line-height: 5px;
+    bottom: 0;
+}
